@@ -4,7 +4,7 @@
   "description": "A simple blog connected to a MongoDB database.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Mueez Khan",
   "license": "ISC",
