@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rzmk/simple-blog">
-    <img src="public/img/pencil.png" alt="Pencil" width="80" height="80">
+    <img src="public/img/pencil.svg" alt="Pencil" width="80" height="80">
   </a>
 
   <h3 align="center">A Simple Blog</h3>
