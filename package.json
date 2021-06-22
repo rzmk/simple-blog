@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "A simple blog connected to a MongoDB database.",
   "main": "app.js",
+  "author": "Mueez Khan",
+  "license": "ISC",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Mueez Khan",
-  "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
