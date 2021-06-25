@@ -7,7 +7,7 @@
 
   <h3 align="center">A Simple Blog</h3>
   <div align="center">
-    <a href="https://rutgers-esports-mailing-list.herokuapp.com/"><strong>View the blog here! »</strong></a>
+    <a href="https://webdev-course-blog-app.herokuapp.com/"><strong>View the blog here! »</strong></a>
     <br />
   </div>
 </div>
@@ -44,7 +44,7 @@ A simple blog web application to learn full-stack web development.
 Details
 * Developing based on the [Web Developer Bootcamp](https://www.udemy.com/share/1013gG/) course.
 * Using EJS for file organization and templating (components).
-* Learning much about SQL CRUD operations, schema, SQL databases (SQLlite), noSQL databases, and Mongoose ODM.
+* Learning much about SQL CRUD operations, schema, SQL databases (SQLite), noSQL databases, and Mongoose ODM.
 * Connecting to a MongoDB database storing post info, with a hidden method on the blog site for creating new posts.
 
 ### Built With
